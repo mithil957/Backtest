@@ -5,6 +5,6 @@ Requirements:
 - In order to run the code, you will need to get an alpha vantage key and a quandl key.
 - https://www.alphavantage.co/ and https://docs.quandl.com/
 
-I am going to make updates to this, such as optimizing some of the parameters. Also, right the backtest only takes into account 1 asset. I want to program it so it can backtest a given portfolio.
+I am going to make updates to this, such as optimizing some of the parameters. Also, right now the backtest only takes into account 1 asset. I want to program it so it can backtest a given portfolio.
 
 If you have any backtest ideas, shoot me an email at mviradia957@gmail.com. 
