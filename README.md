@@ -1,5 +1,5 @@
 
-*View on NBviewer - https://nbviewer.jupyter.org/github/mithil957/Backtest/blob/master/Market_Strats.ipynb
+ *View on NBviewer - https://nbviewer.jupyter.org/github/mithil957/Backtest/blob/master/Market_Strats.ipynb*
 
 # Backtest
 I wrote this notebook in order to backtest a stock trading idea I had. From the results, I didn't do that well compared to the Buy-and-hold strategy. However, I really enjoyed messing around with this code. There were a few times when I got insane returns like turning the intial $100 into 26 million in the course of 18 years. I am glad I ran into this because it helped me learn that I shouldn't always trust my results. I have turned the Jupyter Notebook into a html file so if you just want to check out the results then that is there for you. 
